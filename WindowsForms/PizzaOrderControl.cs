@@ -40,7 +40,9 @@ namespace WindowsForms
         }
 
        
-
+        /// <summary>
+        /// Pizza hot
+        /// </summary>
         public PizzaOrderControl()
         {
             InitializeComponent();
