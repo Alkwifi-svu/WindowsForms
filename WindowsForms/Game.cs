@@ -5,6 +5,10 @@ using WindowsForms.Properties;
 
 namespace WindowsForms
 {
+
+    /// <summary>
+    /// Semple XO Game To New
+    /// </summary>
     public partial class Game : Form
     {
         public delegate void DataBackEventHandler(string winnerName);
